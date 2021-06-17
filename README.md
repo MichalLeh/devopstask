@@ -1,11 +1,8 @@
-evOps úkol  
+# DevOps úkol  
 
-  
+  Prosíme Vás o naprogramování command-line aplikace, která:  
 
-Prosíme Vás o naprogramování command-line aplikace, která:  
-
-     •     Připojí se na https://www.cts-tradeit.cz/kariera/  
-
+     •     Se připojí na https://www.cts-tradeit.cz/kariera/  
      •     Zjistí, jaké aktuálně hledáme pozice. Pro každou nabízenou pozici proklikem zjistí obsah sekce  
            „Co Tě u nás čeká“. Například pro pozici Devops Engineer – Junior/Medior je to text začínající:  
            „Staneš se součástí rychle rostoucího DevOps týmu, který …“.  
