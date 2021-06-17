@@ -1,6 +1,6 @@
 # DevOps úkol  
 
-  Prosíme Vás o naprogramování command-line aplikace, která:  
+  Command-line aplikace, která:  
 
      •     Se připojí na https://www.cts-tradeit.cz/kariera/  
      •     Zjistí, jaké aktuálně hledáme pozice. Pro každou nabízenou pozici proklikem zjistí obsah sekce  
